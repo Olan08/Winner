@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: Winner
+owner: olan08
+package: .
